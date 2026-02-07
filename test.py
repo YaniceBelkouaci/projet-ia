@@ -1,1 +1,1 @@
-print('Futur ingénieur Polytech')
+print('Futur')
